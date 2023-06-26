@@ -1,4 +1,4 @@
-## Olá! Me chamo Maria Eduarda, tenho 21 anos e atualmente moro em São Paulo - SP.
+## Olá!
 
 <div>
   <a href="https://dudagarcia">
